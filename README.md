@@ -2,8 +2,11 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/kefranabg/readme-md-generator#readme)
 
 > This Repository shows you to how can Cqrs implemention in .Net Core and MediatR
+<p align="center">
+	<img width="100%" src="./src/description.png"></img>
+</p>
 
-### 📖 [Medium Article](https://abdullahozturkk.medium.com/cqrs-command-query-responsibility-segregation-nedir-6619e765bbf3)
+### 📖 You can read my article about this subject : [Medium Article](https://abdullahozturkk.medium.com/cqrs-command-query-responsibility-segregation-nedir-6619e765bbf3)
 
 
 ## Author
